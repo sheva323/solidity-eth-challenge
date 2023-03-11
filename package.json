@@ -1,0 +1,27 @@
+{
+  "name": "week1pokemonfactory",
+  "version": "1.0.0",
+  "description": "Week 1 activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheva323/solidity-eth-challenge.git"
+  },
+  "keywords": [
+    "ethereum",
+    "hardhat"
+  ],
+  "author": "sebasguaqueta.eth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sheva323/solidity-eth-challenge/issues"
+  },
+  "homepage": "https://github.com/sheva323/solidity-eth-challenge#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  }
+}
