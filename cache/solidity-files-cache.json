@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\SebasEasyCoding\\Documents\\Repositories\\EthereumDevProgram\\Week1PokemonFactory\\contracts\\PokemonFactory.sol": {
-      "lastModificationDate": 1678571095900,
-      "contentHash": "8ff65b5d6477b1ca39438c950b31ea18",
+      "lastModificationDate": 1678573630296,
+      "contentHash": "9c3c24946a2ea66c9d679ad2c3074a2a",
       "sourceName": "contracts/PokemonFactory.sol",
       "solcConfig": {
         "version": "0.8.18",
